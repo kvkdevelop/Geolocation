@@ -32,28 +32,28 @@
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1542499069989,
             "changeTime": 1542499069989,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1542499084102,
-            "changeTime": 1542499084102,
-            "isWorkspace": false,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
+            "modifiedTime": 1542498550727,
+            "changeTime": 1542498550727,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -307,14 +307,14 @@
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "size": 182,
+            "modifiedTime": 1542498678902,
+            "changeTime": 1542498678902,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
             "isMetadataFile": false,
-            "size": 201,
-            "modifiedTime": 1542499195382,
-            "changeTime": 1542499195382,
-            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f"
+            "state": "u"
         }
     ],
     [
@@ -736,339 +736,209 @@
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 222,
             "modifiedTime": 1542499069993,
             "changeTime": 1542499069993,
-            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 1259,
             "modifiedTime": 1542499070227,
             "changeTime": 1542499070227,
-            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 696,
             "modifiedTime": 1542499070230,
             "changeTime": 1542499070230,
-            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 2464,
             "modifiedTime": 1542499070232,
             "changeTime": 1542499070232,
-            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 1466,
             "modifiedTime": 1542499070235,
             "changeTime": 1542499070235,
-            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1542499070237,
             "changeTime": 1542499070237,
-            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 398589,
             "modifiedTime": 1542499070242,
             "changeTime": 1542499070242,
-            "contentHash": "ca67d5d8c1790d2dfb84a2dca04a8e07a1f7a256",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ca67d5d8c1790d2dfb84a2dca04a8e07a1f7a256"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 759894,
             "modifiedTime": 1542499070250,
             "changeTime": 1542499070250,
-            "contentHash": "3f658c11a3777fec7d47791891cef7c658c9de5b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "3f658c11a3777fec7d47791891cef7c658c9de5b"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 400314,
             "modifiedTime": 1542499070287,
             "changeTime": 1542499070287,
-            "contentHash": "6dc6a7d35f9833647c5b4978331ab6421b38f47f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "6dc6a7d35f9833647c5b4978331ab6421b38f47f"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 759986,
             "modifiedTime": 1542499070295,
             "changeTime": 1542499070295,
-            "contentHash": "6fc0eb51f39c20d20284c1ee42e5a3b0ec516380",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "6fc0eb51f39c20d20284c1ee42e5a3b0ec516380"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 14106,
             "modifiedTime": 1542499070303,
             "changeTime": 1542499070303,
-            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 140540,
             "modifiedTime": 1542499070339,
             "changeTime": 1542499070339,
-            "contentHash": "869977e7c60b77f9cce8a4d75530a992429d6864",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "869977e7c60b77f9cce8a4d75530a992429d6864"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 191113,
             "modifiedTime": 1542499070346,
             "changeTime": 1542499070346,
-            "contentHash": "07d76b212e8e2a85af20ad9120bd45c7c1913c17",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "07d76b212e8e2a85af20ad9120bd45c7c1913c17"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1542499070221,
             "changeTime": 1542499070221,
-            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1542499070236,
             "changeTime": 1542499070236,
-            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659"
         }
     ],
     [
         "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1542499070340,
             "changeTime": 1542499070340,
-            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1542499084127,
-            "changeTime": 1542499104899,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
-        }
-    ],
-    [
-        "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1542499084126,
-            "changeTime": 1542499084126,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 257,
-            "modifiedTime": 1542499169293,
-            "changeTime": 1542499169293,
-            "contentHash": "3db53485d80f66fb1f2ed3b639b86316e4ac2208"
-        }
-    ],
-    [
-        "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1542499084111,
-            "changeTime": 1542499084111,
-            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9"
-        }
-    ],
-    [
-        "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1542499169293,
-            "changeTime": 1542499169293,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
-        }
-    ],
-    [
-        "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1542499084128,
-            "changeTime": 1542499084128,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1542499084124,
-            "changeTime": 1542499084124,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 387,
-            "modifiedTime": 1542499405040,
-            "changeTime": 1542499405040,
-            "contentHash": "d9c003312310adfc8ac80ff9005aba9cc7d51056"
-        }
-    ],
-    [
-        "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1542499084116,
-            "changeTime": 1542499115006,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Keith\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1542499084121,
-            "changeTime": 1542499084121,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a"
         }
     ]
 ]
